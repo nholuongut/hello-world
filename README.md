@@ -1,3 +1,3 @@
-#This is a cooment
-# hello-world
+#This is a comment
+#Hello-world
 My first repository on GitHub.
